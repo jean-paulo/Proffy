@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/github/watchers/jean-paulo/Proffy?style=social" /> 
   <img src="https://img.shields.io/badge/React-%20-blue" /> 
   <img src="https://img.shields.io/badge/TypeScript-%20-blue" /> 
-  <img src=images/landing.png alt="tela da aplicação" /> 
+  <img src=images/landing.png alt="tela da aplicação" width="750" /> 
 </p>
 
 
